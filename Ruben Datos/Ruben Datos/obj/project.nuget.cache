@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "jSbk1TTrNBEb7mU3ToqLfFwTl7ZHrG34gyfmm/V3tmx1icKi3ovp3uL9mzGhrMkVydwol20WT5z+Ezkr9z0jNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexis\\Neptunian Desktop\\code\\rubendatos\\Ruben Datos\\Ruben Datos\\Ruben Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.0\\microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

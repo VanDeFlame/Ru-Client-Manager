@@ -1,0 +1,22 @@
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\Ruben Datos.exe.config
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\Ruben Datos.exe
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\Ruben Datos.pdb
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\SpreadsheetLight.dll
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\System.IO.Packaging.dll
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.csproj.AssemblyReference.cache
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\MainWindow.g.cs
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\App.g.cs
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos_MarkupCompile.cache
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos_MarkupCompile.lref
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\MainWindow.baml
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.g.resources
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben_Datos.Properties.Resources.resources
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.csproj.GenerateResource.cache
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.csproj.CopyComplete
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.exe
+C:\Users\Alexis\Neptunian Desktop\code\rubendatos\Ruben Datos\Ruben Datos\obj\Debug\Ruben Datos.pdb

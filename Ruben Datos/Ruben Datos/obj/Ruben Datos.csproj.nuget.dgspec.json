@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alexis\\Neptunian Desktop\\code\\rubendatos\\Ruben Datos\\Ruben Datos\\Ruben Datos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alexis\\Neptunian Desktop\\code\\rubendatos\\Ruben Datos\\Ruben Datos\\Ruben Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alexis\\Neptunian Desktop\\code\\rubendatos\\Ruben Datos\\Ruben Datos\\Ruben Datos.csproj",
+        "projectName": "Ruben Datos",
+        "projectPath": "C:\\Users\\Alexis\\Neptunian Desktop\\code\\rubendatos\\Ruben Datos\\Ruben Datos\\Ruben Datos.csproj",
+        "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexis\\Neptunian Desktop\\code\\rubendatos\\Ruben Datos\\Ruben Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.VisualBasic": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.19041.1, )"
+            },
+            "SpreadsheetLight": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "uap10.0.19041"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
